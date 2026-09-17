@@ -3,16 +3,9 @@
 
 echo " hello world"
 
-touch hello.txt
+touch he.txt
 
-echo "hello gay! " > hello.txt
-
-
-
-git init
-
-git remote add origin  https://github.com/Soumyadeepjana1/demo-shell.git
-
+echo "hello gay! " > he.txt
 
 git add .
 
